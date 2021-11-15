@@ -1,2 +1,3 @@
-# aDwR
-An interactive guide to 2acornupper's A Dance with Rogues games!
+# a Dance with Rogues: interactive guide
+
+An HTML-based interactive guide to 2acornupper's famous NWN modules, A Dance with Rogues!
